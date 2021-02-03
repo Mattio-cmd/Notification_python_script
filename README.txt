@@ -1,0 +1,2 @@
+Hey, the creator here. Note that if you want to use this script, you need to extract all the files to a comon directory/folder for it to work.
+If the clock icon doesnt appear, simply go to the directory where the project is located and copy the path of the icon to the icon variable.
